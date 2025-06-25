@@ -9,6 +9,6 @@ This repository contains all material related to the course BT5240 (Computationa
 | 3 | Constraint-Based Modelling with the COBRA Toolbox | 
 | 4 | Dynamic Modelling |
 | 5 | Applications of Systems Biology | 
-<br/>
-<br/>
+
+
 For the project done as part of this course, click [here](https://github.com/rao-anirudh/gut-microbiome-dynamics).
